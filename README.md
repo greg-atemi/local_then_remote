@@ -36,7 +36,7 @@
     - To reconcile using rebase use:
         >     git config pull.rebase true
     - To reconcile using merge use:
-        >     git config pull.rebase true
+        >     git config pull.rebase false
     
 * Then perform the pull again so as to finalize the reconciliation
 
